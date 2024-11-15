@@ -1,3 +1,5 @@
+![watchlistideas 1](https://github.com/user-attachments/assets/a309b6a0-860a-4c33-8400-dbbc08ba9567)
+![blue 1](https://github.com/user-attachments/assets/a299c919-cb47-4523-8063-5d4bac1711cb)
 # Connecting Devices over Smart Development Bridge
 
 The Smart Development Bridge (SDB) is a command line tool that communicates with a connected target device (it can be an emulator instance or a real Tizen device).
